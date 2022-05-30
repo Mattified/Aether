@@ -1,0 +1,7 @@
+how to update:
+example:
+1.0.1h updated unpatched
+version | update status | patch status
+if version is wrong it will show incorrect version in executor
+if dll's arent updated it will show not updated
+if executor is patched it will show patched
